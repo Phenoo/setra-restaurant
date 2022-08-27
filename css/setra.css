@@ -56,6 +56,10 @@ img {
     object-fit: cover;
 }
 
+p {
+    font-size: 0.7rem;
+}
+
 button,
 input {
     font-family: var(--poppins);
@@ -462,9 +466,6 @@ nav {
 @media screen and (max-width: 600px) {
     .tophead {
         font-size: 1.5rem;
-    }
-    p {
-        font-size: 0.7rem;
     }
     .review img {
         margin-top: 1rem;
